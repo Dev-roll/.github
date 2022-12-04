@@ -11,6 +11,10 @@
 
 <h1 align="center">Welcome to the Devroll community!</h1>
 <br/>
+
+![Devroll](https://user-images.githubusercontent.com/79978827/205493688-a9f98ccb-def4-49bc-b603-762b74c6bc66.png)
+
+<br/>
 <p align="center">
   <!-- <img src="" alt="Devroll logo"> -->
   <br/><br/>
